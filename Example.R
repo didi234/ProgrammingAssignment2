@@ -1,3 +1,5 @@
+## Example code for assignment 2. Please ignore.
+
 makeVector <- function(x = numeric()) {
     m <- NULL
     set <- function(y) {
